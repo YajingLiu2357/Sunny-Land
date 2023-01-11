@@ -1,5 +1,3 @@
-# Sunny-Land
-
 ## Introduction
 
 Sunny Land is a mini horizontal Parkour game implemented with Unity. In this game, the player plays a little fox to explore the forest, pick up items and beat enemies.
