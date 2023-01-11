@@ -50,4 +50,4 @@ This is my first game. I developed this game independently under [a series of on
 
 ## Demo Video
 
-[<img src="https://i.ytimg.com/vi/A_twmaDyGqw/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=A_twmaDyGqw&t=7s "2D Parkour game: Sunny Land - Demo Video")
+![demo video](./demo/demo.mov)
