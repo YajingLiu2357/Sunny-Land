@@ -28,19 +28,19 @@ This is my first game. I developed this game independently under [a series of on
 
    - Menus
 
-     ![Main Menu](./images/Main Menu.png)
+     ![Main Menu](./images/MainMenu.png)
 
      
 
-      ![Pause Menu](./images/Pause Menu.png)
+      ![Pause Menu](./images/PauseMenu.png)
 
    - Popping hints 
 
-     ![Popping Hints](./images/Popping Hints.png)
+     ![Popping Hints](./images/PoppingHints.png)
 
    - Collection Information
 
-     ![Collection Information](./images/Collection Information.png)
+     ![Collection Information](./images/CollectionInformation.png)
 
 4. This game has two different scenes (day and night).
 
