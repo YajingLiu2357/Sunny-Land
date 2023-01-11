@@ -50,4 +50,4 @@ This is my first game. I developed this game independently under [a series of on
 
 ## Demo Video
 
-   ![demo video](./demo/demo.mov)
+   [demo video](https://www.youtube.com/watch?v=A_twmaDyGqw)
