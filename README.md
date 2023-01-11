@@ -22,7 +22,7 @@ This is my first game. I developed this game independently under [a series of on
 
 2. The player can pick up cherries and beat enemies by jumping on them.
 
-   ![Pick up items & beat enemies](./images/Collect cherries and beat enemies.gif)
+   ![Pick up items & beat enemies](./images/CollectCherriesBeatEnemies.gif)
 
 3. This game has various UI designs like menus, popping hints, and collection information.
 
@@ -50,7 +50,7 @@ This is my first game. I developed this game independently under [a series of on
 
 ## Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A_twmaDyGqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[<img src="https://i.ytimg.com/vi/A_twmaDyGqw/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=A_twmaDyGqw&t=7s "2D Parkour game: Sunny Land - Demo Video")
 
 ## Install
 
