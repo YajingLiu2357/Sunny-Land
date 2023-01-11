@@ -50,7 +50,7 @@ This is my first game. I developed this game independently under [a series of on
 
 ## Demo Video
 
-{% include youtube.html id="A_twmaDyGqw" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_twmaDyGqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Install
 
