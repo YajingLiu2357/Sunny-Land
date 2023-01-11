@@ -50,7 +50,7 @@ This is my first game. I developed this game independently under [a series of on
 
 ## Demo Video
 
-[![](https://www.youtube.com/watch?v=A_twmaDyGqw/maxresdefault.jpg)](https://www.youtube.com/watch?v=A_twmaDyGqw)
+{% include youtube.html id="A_twmaDyGqw" %}
 
 ## Install
 
