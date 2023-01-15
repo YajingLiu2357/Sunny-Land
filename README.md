@@ -51,3 +51,10 @@ This is my first game. I developed this game independently under [a series of on
 ## Demo Video
 
    [demo video](https://www.youtube.com/watch?v=A_twmaDyGqw)
+
+## Install 
+
+Windows: [download here](https://github.com/YajingLiu2357/Sunny-Land/blob/main/install/Windows.zip)
+
+macOS: [download here](https://github.com/YajingLiu2357/Sunny-Land/blob/main/install/Mac.zip)
+
