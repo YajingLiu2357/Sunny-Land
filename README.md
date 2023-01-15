@@ -4,6 +4,10 @@ Sunny Land is a mini horizontal Parkour game implemented with Unity. In this gam
 
 This is my first game. I developed this game independently under [a series of online tutorials](https://space.bilibili.com/370283072/channel/collectiondetail?sid=2991) for the selection exam of the international summer school organized by the University of Bologna in 2020.
 
+## Major Techniques and Tools Used
+- C#
+- Unity
+
 ## Features 
 
 1. In this game, the player can take three kinds of action: running, jumping, and crouching. 
